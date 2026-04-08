@@ -72,7 +72,6 @@ Lab and cloud traffic run on separate bridges enforced at the hypervisor level. 
 - [ ] First VulnHub machine + writeup
 - [ ] Wazuh SIEM (requires RAM upgrade)
 - [ ] Active Directory lab with GOAD (requires RAM upgrade)
-- [ ] CompTIA Security+ (via Army COOL)
 
 ## Objectives
 
